@@ -23,6 +23,6 @@ Copy these down and enter them into the config.py script. Do this for
 each user you currently have with Reddit. 
 
 
-##Usage:
+## Usage:
 
     python list_subreddits.py --user=USERNAME
