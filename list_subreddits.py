@@ -3,7 +3,6 @@ import click
 from config import client_id, client_secret, user_agent,user_info 
 
 
-
 @click.command()
 @click.option('--user', help='the user to pull subreddits from')
 def make_list(user):
