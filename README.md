@@ -10,7 +10,7 @@ between your accounts.
 For this to work you will need to create a personal app in each of your reddit
 accounts.
 
-Go to the [apps page}(https://www.reddit.com/prefs/apps/)
+Go to the [apps page](https://www.reddit.com/prefs/apps/)
 Click the `Create another App` button
 Give the app an name, description and put `http://localhost` in the 
 redirect URL box. 
